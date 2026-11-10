@@ -6,8 +6,8 @@
 class TaipConnect < Formula
   desc "Wire the hosted taip brain + context + taip-tools MCP servers into Claude Code"
   homepage "https://github.com/taip-ai/taip-agent"
-  url "https://registry.npmjs.org/taip-connect/-/taip-connect-0.34.1.tgz"
-  sha256 "a0bccaf372704ff3c215aebc5c9762700c03e37d7a0f1843b6c611a288841226"
+  url "https://registry.npmjs.org/taip-connect/-/taip-connect-0.35.0.tgz"
+  sha256 "4f21eca3ac0233ffc1e9f48b999656c2e3fa2d60f97fa275dbb9c0f1508e5677"
   license "UNLICENSED"
 
   depends_on "node" # Node >= 20 auto-installed as a dependency (SR-3)
